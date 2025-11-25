@@ -108,6 +108,7 @@ Each entry is categorized and includes the tool’s name, direct link, and a con
 
 | Name           | Link                                                       | Description                                             |
 | -------------- | ---------------------------------------------------------- | ------------------------------------------------------- |
+| Wisprflow AI   | [wisprflow.ai](https://wisprflow.ai/)                      | The voice-to-text AI that turns speech into writing     |
 | Pika Labs      | [pika.art](https://pika.art)                               | Video generation from text prompts.                     |
 | Runway         | [runwayml.com](https://runwayml.com)                       | AI video editing and creation platform.                 |
 | Synthesia      | [synthesia.io](https://www.synthesia.io)                   | AI-generated videos with virtual presenters.            |
