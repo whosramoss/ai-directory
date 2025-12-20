@@ -59,7 +59,7 @@ Each entry is categorized and includes the tool’s name, direct link, and a con
 | Simplified AI Writer | [simplified.com](https://www.simplified.com)                         | Unified AI suite for writing, design, and marketing.                    |
 | CopyMonkey           | [copymonkey.ai](https://www.copymonkey.ai)                           | Automatic product description generation.                               |
 | Flowrite             | [flowrite.com](https://flowrite.com)                                 | Professional email and message writing assistant.                       |
-
+| Anygen               | [anygen.io](https://www.anygen.io/)                                  | AI that boosts your creative productivity                               |
 ---
 
 ## 2. Design & Image
