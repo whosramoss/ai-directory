@@ -149,6 +149,7 @@ Each entry is categorized and includes the tool’s name, direct link, and a con
 | ------------------------ | ---------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | GitHub Copilot           | [github.com/features/copilot](https://github.com/features/copilot)           | AI-powered code suggestion from OpenAI.                              |
 | Amazon CodeWhisperer     | [aws.amazon.com/codewhisperer](https://aws.amazon.com/codewhisperer)         | Automatic code and documentation generation.                         |
+| Blaze SQL                | [blazesql.com](https://www.blazesql.com/)                                       |                                                                      |
 | Tabnine                  | [tabnine.com](https://www.tabnine.com)                                       | AI-driven code autocompletion.                                       |
 | Cody                     | [sourcegraph.com/cody](https://sourcegraph.com/cody)                         | Assistant for understanding and navigating codebases.                |
 | Replit Ghostwriter       | [replit.com/ghostwriter](https://replit.com/ghostwriter)                     | AI coding assistant within Replit.                                   |
